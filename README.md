@@ -17,9 +17,13 @@ Streamlit: For building an interactive web app.<br>
 ### 🔍 𝐊𝐞𝐲 𝐒𝐭𝐞𝐩𝐬
 
 Data Preparation: Loaded and cleaned the dataset, handled missing values, and performed feature encoding for categorical variables like InternetService, Contract, and PaymentMethod. Also scaled numerical features like MonthlyCharges and TotalCharges.<br>
+
 Model Training: Trained multiple machine learning models—Gradient Boosting, Logistic Regression, Decision Tree, Random Forest, and Support Vector Classifier (SVC)—to predict customer churn.<br>
+
 Prediction: Used these models to predict whether customers are likely to churn based on their input data.<br>
+
 Performance Evaluation: Evaluated model performance using metrics such as accuracy scores, confusion matrices, and classification reports.<br>
+
 Model Deployment: Built an interactive app using Streamlit to allow users to input customer data and receive real-time churn predictions.<br>
 
 ### 📊 𝐊𝐞𝐲 𝐅𝐢𝐧𝐝𝐢𝐧𝐠𝐬
