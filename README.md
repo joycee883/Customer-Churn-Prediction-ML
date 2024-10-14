@@ -53,4 +53,9 @@ The Gradient Boosting Classifier provided the best performance for predicting cu
 
 This app could be used by telecom companies to proactively identify customers likely to churn, enabling targeted offers or interventions to retain them. The model's predictions could significantly enhance customer retention efforts and improve overall business outcomes.
 
+
+**Discover the Telecom Customer Churn Prediction App!**
+This interactive Streamlit application uses machine learning to predict whether a customer will churn based on their demographic, service, and billing details. With this tool, telecom companies can identify at-risk customers and take proactive steps to retain them.
+
+Visit the live app here.
 https://customerchurnprediction-j2hqdsygi3hm6edgkel8by.streamlit.app/
