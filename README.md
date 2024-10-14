@@ -32,12 +32,15 @@ I recently completed a Telecom Customer Churn Prediction project using various m
 **Gradient Boosting Classifier:** <br>
   * Accuracy: 82.36%<br>
   * Precision: 0.79, Recall: 0.74, F1-Score: 0.76<br>
+  
 **Logistic Regression:** <br>
   * Accuracy: 80.50%<br>
   * Precision: 0.78, Recall: 0.72, F1-Score: 0.75<br>
+  
 **Random Forest:** <br>
   * Accuracy: 81.80%<br>
   * Precision: 0.78, Recall: 0.73, F1-Score: 0.75<br>
+  
 **Support Vector Classifier (SVC):** <br>
   * Accuracy: 80.12%<br>
   * Precision: 0.77, Recall: 0.72, F1-Score: 0.74<br>
