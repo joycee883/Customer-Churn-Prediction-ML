@@ -12,6 +12,7 @@ I recently completed a Telecom Customer Churn Prediction project using various m
 * Pandas: For data manipulation and analysis.<br>
 * Scikit-learn: For building and evaluating models.<br>
 * Joblib: For saving and loading models.<br>
+
 **Streamlit:** For building an interactive web app.<br>
 
 ### 🔍 𝐊𝐞𝐲 𝐒𝐭𝐞𝐩𝐬
@@ -29,17 +30,17 @@ I recently completed a Telecom Customer Churn Prediction project using various m
 ### 📊 𝐊𝐞𝐲 𝐅𝐢𝐧𝐝𝐢𝐧𝐠𝐬
 
 **Gradient Boosting Classifier:** <br>
-* Accuracy: 82.36%<br>
-* Precision: 0.79, Recall: 0.74, F1-Score: 0.76<br>
+  * Accuracy: 82.36%<br>
+  * Precision: 0.79, Recall: 0.74, F1-Score: 0.76<br>
 **Logistic Regression:** <br>
-* Accuracy: 80.50%<br>
-* Precision: 0.78, Recall: 0.72, F1-Score: 0.75<br>
+  * Accuracy: 80.50%<br>
+  * Precision: 0.78, Recall: 0.72, F1-Score: 0.75<br>
 **Random Forest:** <br>
-* Accuracy: 81.80%<br>
-* Precision: 0.78, Recall: 0.73, F1-Score: 0.75<br>
+  * Accuracy: 81.80%<br>
+  * Precision: 0.78, Recall: 0.73, F1-Score: 0.75<br>
 **Support Vector Classifier (SVC):** <br>
-* Accuracy: 80.12%<br>
-* Precision: 0.77, Recall: 0.72, F1-Score: 0.74<br>
+  * Accuracy: 80.12%<br>
+  * Precision: 0.77, Recall: 0.72, F1-Score: 0.74<br>
 
 ### 🏁 𝐂𝐨𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧
 
